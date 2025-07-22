@@ -1,4 +1,4 @@
-# Adv_Sales_Pred
+# Advertisement Sales Prediction Model using Logistic Regression
 This is for predicting the likelihood of purchase of a customer based on their Age and Salary using Logistic Regression.
 This is also used to check whether the advertisement has made a successful change or not
 
